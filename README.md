@@ -27,7 +27,7 @@
 - [lerna](https://github.com/lerna/lerna) - 一个让你在javaScript项目中管理多个包的工具库
 - [nexe](https://github.com/nexe/nexe) - Nexe 是一个命令行实用程序，可将您的 Node.js 应用程序编译为单个可执行文件
 - [atools](https://github.com/wangdaoo/atools) - 一个简单的JavaScript 实用工具库（包含一些简单的工具函数）
-- [tesseract.js] (https://github.com/naptha/tesseract.js) - 一个基于JavaScript的OCR图像识别的库
+- [tesseract.js](https://github.com/naptha/tesseract.js) - 一个基于JavaScript的OCR图像识别的库
 - [pdf-lib](https://github.com/Hopding/pdf-lib) - 一个可以让你在修改或者添加pdf文件的内容的库
 - [postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport) - 一个自动将px转化为vw或者vh的库 （适配移动端应用时非常有用）
 - [js-cookie](https://github.com/js-cookie/js-cookie) - 用于处理浏览器cookie的简单、轻量级JavaScript库
