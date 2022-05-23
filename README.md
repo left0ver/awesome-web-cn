@@ -43,6 +43,10 @@
 - [node-ssh](https://github.com/steelbrain/node-ssh) - 一个用于 node.js 中进行 ssh 连接的库
 - [download-git-repo](https://www.npmjs.com/package/download-git-repo) - 一个用于 node.js 中下载 git repository 的库
 - [Sortable](https://github.com/SortableJS/Sortable) - 一个用于可重新排序的拖放列表的 JavaScript 库
+- [cross-env](https://github.com/kentcdodds/cross-env) - 一个可以让你在 npm scripts 中设置环境变量的库
+- [jsPDF](https://github.com/parallax/jsPDF) - 一个可以帮助你生成pdf的库
+- [KaTeX](https://github.com/KaTeX/KaTeX) - 一个可以帮助你在web页面上书写出规范整齐的数学公式的库
+- [tsdx](https://github.com/jaredpalmer/tsdx) - 一个零配置的 CLI，可帮助您轻松开发、测试和发布现代 TypeScript 包
 - 
 # Vue
 
@@ -68,7 +72,11 @@
 - [babel-plugin-react-css-modules](https://github.com/gajus/babel-plugin-react-css-modules) - 让你使用 css-modules 的方式编写 CSS 变得更简单,代码更优雅
 - [styled-components](https://github.com/styled-components/styled-components) - 使用 All in js 的方式在 React 中编写 CSS
 - [classnames](https://github.com/JedWatson/classnames) - 一个让你有条件地将类名连接在一起 （经常使用在 React 之中）
+- [hoist-non-react-statics](https://github.com/mridgway/hoist-non-react-statics) - 一个将非react自己的静态方法从子组件复制到父组件中的库（这在封装高阶组件时经常用到）
 - [tsparticles](https://github.com/matteobruni/tsparticles) - 一个粒子动画背景组件，支持 Vue 、React JQuery 等多个框架
+
+
+# 代码规范
 # Contribution
 如果您有什么实用的库或者组件，欢迎您分享出来，帮助到更多的人，欢迎您的[PR](https://github.com/left0ver/awesome-web-cn/pulls)
 
