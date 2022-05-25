@@ -47,7 +47,8 @@
 - [jsPDF](https://github.com/parallax/jsPDF) - 一个可以帮助你生成pdf的库
 - [KaTeX](https://github.com/KaTeX/KaTeX) - 一个可以帮助你在web页面上书写出规范整齐的数学公式的库
 - [tsdx](https://github.com/jaredpalmer/tsdx) - 一个零配置的 CLI，可帮助您轻松开发、测试和发布现代 TypeScript 包
-- 
+- [ag-grid](https://github.com/ag-grid/ag-grid) - 一个 JavaScript Table 表格,支持 Vue 、React 、Angular 以及原生 JavaScript 
+- [monaco-editor](https://github.com/microsoft/monaco-editor) - 一个基于浏览器端的 VSCode 代码编辑器组件
 # Vue
 
 - [vxe-table](https://github.com/x-extends/vxe-table) - 一个 Vue 的 table 组件
@@ -57,6 +58,7 @@
 - [particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - 一个粒子动画背景组件
 - [giscus-component](https://github.com/giscus/giscus-component) - 一个基于 GitHub Discussions 的评论系统
 - [vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - 一个基于 [Sortable.js](https://github.com/SortableJS/Sortable) 的Vue 3兼容拖放组件
+- [vue-monaco](https://github.com/egoist/vue-monaco) - 在 Vue 中使用 [monaco-editor](https://github.com/microsoft/monaco-editor) 的组件
 
 
 # React
@@ -74,9 +76,11 @@
 - [classnames](https://github.com/JedWatson/classnames) - 一个让你有条件地将类名连接在一起 （经常使用在 React 之中）
 - [hoist-non-react-statics](https://github.com/mridgway/hoist-non-react-statics) - 一个将非react自己的静态方法从子组件复制到父组件中的库（这在封装高阶组件时经常用到）
 - [tsparticles](https://github.com/matteobruni/tsparticles) - 一个粒子动画背景组件，支持 Vue 、React JQuery 等多个框架
-
+- [react-toastify](https://github.com/fkhadra/react-toastify) - 一个 React 的消息通知组件
 
 # 代码规范
+
+敬请期待
 # Contribution
 如果您有什么实用的库或者组件，欢迎您分享出来，帮助到更多的人，欢迎您的[PR](https://github.com/left0ver/awesome-web-cn/pulls)
 
