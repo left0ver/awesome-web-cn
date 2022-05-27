@@ -1,3 +1,4 @@
+![last-updated](https://api.leftover.cn/api/last-updated/shields?owner=left0ver&repo=awesome-web-cn)
 # About
  这个仓库主要提供一些 JavaScript/Typescript 、Vue、React 方面的资源，主要集中于一些实用的库和常用的组件
 
@@ -56,6 +57,7 @@
 - [tsdx](https://github.com/jaredpalmer/tsdx) - 一个零配置的 CLI，可帮助您轻松开发、测试和发布现代 TypeScript 包
 - [ag-grid](https://github.com/ag-grid/ag-grid) - 一个 JavaScript Table 表格,支持 Vue 、React 、Angular 以及原生 JavaScript 
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - 一个基于浏览器端的 VSCode 代码编辑器组件
+- [faker](https://github.com/faker-js/faker) - 一个可以为你的node.js或者浏览器生成大量假数据的库
 # Vue
 
 - [vxe-table](https://github.com/x-extends/vxe-table) - 一个 Vue 的 table 组件
@@ -84,7 +86,7 @@
 - [hoist-non-react-statics](https://github.com/mridgway/hoist-non-react-statics) - 一个将非react自己的静态方法从子组件复制到父组件中的库（这在封装高阶组件时经常用到）
 - [tsparticles](https://github.com/matteobruni/tsparticles) - 一个粒子动画背景组件，支持 Vue 、React JQuery 等多个框架
 - [react-toastify](https://github.com/fkhadra/react-toastify) - 一个 React 的消息通知组件
-
+- [uppy](https://github.com/transloadit/uppy) - 一个文件上传器，支持音频，视频，文件等多种上传方式，支持 node , React ,Vue
 # 代码规范
 
 敬请期待
