@@ -11,7 +11,7 @@
 - [Vue](https://github.com/left0ver/awesome-web-cn#vue)
 - [React](https://github.com/left0ver/awesome-web-cn#react)
 - [代码规范](https://github.com/left0ver/awesome-web-cn#%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
- 
+- [VSCode插件](https://github.com/left0ver/awesome-web-cn#vscode-%E6%8F%92%E4%BB%B6) 
 # JavaScript/Typescript
 
 - [lodash](https://github.com/lodash/lodash) - 一个 JavaScript 的工具库,包含许多有用的工具函数
@@ -58,6 +58,9 @@
 - [ag-grid](https://github.com/ag-grid/ag-grid) - 一个 JavaScript Table 表格,支持 Vue 、React 、Angular 以及原生 JavaScript 
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - 一个基于浏览器端的 VSCode 代码编辑器组件
 - [faker](https://github.com/faker-js/faker) - 一个可以为你的 node.js 或者浏览器生成大量假数据的库
+- [ioredis](https://github.com/luin/ioredis) - 一个用于 node.js 的 redis 客户端
+- [Numeral-js](https://github.com/adamwdraper/Numeral-js) - 一个用于格式化和操作数字的 javascript 库
+- [ramda](https://github.com/ramda/ramda) - 一个实用的函数式编程风格的 JavaScript 工具库，查看[API](https://ramdajs.com/docs/)
 # Vue
 
 - [vxe-table](https://github.com/x-extends/vxe-table) - 一个 Vue 的 table 组件
