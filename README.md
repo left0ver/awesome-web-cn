@@ -45,7 +45,7 @@
 - [kebab-case](https://www.npmjs.com/package/kebab-case) - 将字符串转换为 kebab-case 的库（例如：WebkitTransform -> -webkit-transform）
 - [commander](https://github.com/tj/commander.js) - 帮助你创建 node.js 命令行的库
 - [chalk](https://github.com/chalk/chalk) - 一个用于给你的终端的字符添加颜色的库
-- [node-archiver](https://github.com/archiverjs/node-archiver) - 一个用于 node.js 中压缩文件的库
+- [node-archiver](https://github.com/archiverjs/node-archiver) - 一个用于 node.js 的压缩文件的库，支持zip和rar压缩
 - [ora](https://github.com/sindresorhus/ora) - 一个用于 node.js 中给终端添加加载动画的库
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 一个用于 node.js 中命令行交互的库
 - [node-ssh](https://github.com/steelbrain/node-ssh) - 一个用于 node.js 中进行 ssh 连接的库
@@ -61,6 +61,7 @@
 - [ioredis](https://github.com/luin/ioredis) - 一个用于 node.js 的 redis 客户端
 - [Numeral-js](https://github.com/adamwdraper/Numeral-js) - 一个用于格式化和操作数字的 javascript 库
 - [ramda](https://github.com/ramda/ramda) - 一个实用的函数式编程风格的 JavaScript 工具库，查看[API](https://ramdajs.com/docs/)
+- [jszip](https://github.com/Stuk/jszip) - 一个使用 JavaScript 创建、读取和编辑 .zip 文件的库
 # Vue
 
 - [vxe-table](https://github.com/x-extends/vxe-table) - 一个 Vue 的 table 组件
