@@ -62,6 +62,8 @@
 - [Numeral-js](https://github.com/adamwdraper/Numeral-js) - 一个用于格式化和操作数字的 javascript 库
 - [ramda](https://github.com/ramda/ramda) - 一个实用的函数式编程风格的 JavaScript 工具库，查看[API](https://ramdajs.com/docs/)
 - [jszip](https://github.com/Stuk/jszip) - 一个使用 JavaScript 创建、读取和编辑 .zip 文件的库
+- [tinyws](https://github.com/tinyhttp/tinyws) - 用于 Node.js 的微型 WebSocket 中间件
+
 # Vue
 
 - [vxe-table](https://github.com/x-extends/vxe-table) - 一个 Vue 的 table 组件
@@ -91,6 +93,8 @@
 - [tsparticles](https://github.com/matteobruni/tsparticles) - 一个粒子动画背景组件，支持 Vue 、React JQuery 等多个框架
 - [react-toastify](https://github.com/fkhadra/react-toastify) - 一个 React 的消息通知组件
 - [uppy](https://github.com/transloadit/uppy) - 一个文件上传器，支持音频，视频，文件等多种上传方式，支持 node , React ,Vue
+- [avvvatars](https://github.com/nusu/avvvatars) - 一个用于 React 项目中的漂亮、独特的头像占位符，利用输入的字符串来生成独特的头像
+- [remax](https://github.com/remaxjs/remax) - 使用 React 构建跨平台小程序，不同于 React Native 用于构建多端，remax 只是用来开发小程序的
 # 代码规范
 敬请期待
 
