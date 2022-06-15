@@ -63,6 +63,7 @@
 - [ramda](https://github.com/ramda/ramda) - 一个实用的函数式编程风格的 JavaScript 工具库，查看[API](https://ramdajs.com/docs/)
 - [jszip](https://github.com/Stuk/jszip) - 一个使用 JavaScript 创建、读取和编辑 .zip 文件的库
 - [tinyws](https://github.com/tinyhttp/tinyws) - 用于 Node.js 的微型 WebSocket 中间件
+- [mri](https://github.com/lukeed/mri) - 一个用于获取命令行输入的 flags and arguments 的 JavaScript 库
 
 # Vue
 
