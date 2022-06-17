@@ -19,7 +19,7 @@
 - [uuid](https://github.com/uuidjs/uuid) - 一个生成符合 RFC 规范的 uuid 的 Javascript 库
 - [nanoid](https://github.com/ai/nanoid) - 一个小巧、安全、URL 友好、唯一的 JavaScript 字符串 ID 生成器(比 uuid 快)
 - [p-limit](https://github.com/sindresorhus/p-limit) - 一个可以运行多个 promise-returning & async 函数并且限制并发数量的JavaScript库
-- [PicGo-Core](https://github.com/PicGo/PicGo-Core) - 一个可以让你上传文件到指定图床的 Javascrip t库
+- [PicGo-Core](https://github.com/PicGo/PicGo-Core) - 一个可以让你上传文件到指定图床的 Javascript 库
 - [node-casbin](https://github.com/casbin/node-casbin) - 一个node的权限管理库，支持 ACL , RBAC , ABAC 等访问控制模型的库
 - [isMobile](https://github.com/kaimallea/isMobile) - 一个判断是不是移动端设备的库
 - [sharp](https://github.com/lovell/sharp) - 一个处理图像的库
@@ -96,6 +96,9 @@
 - [uppy](https://github.com/transloadit/uppy) - 一个文件上传器，支持音频，视频，文件等多种上传方式，支持 node , React ,Vue
 - [avvvatars](https://github.com/nusu/avvvatars) - 一个用于 React 项目中的漂亮、独特的头像占位符，利用输入的字符串来生成独特的头像
 - [remax](https://github.com/remaxjs/remax) - 使用 React 构建跨平台小程序，不同于 React Native 用于构建多端，remax 只是用来开发小程序的
+- [tabler-icons](https://github.com/tabler/tabler-icons) - 一组超过 1950 个免费的基于 MIT 的高质量 SVG 图标，可以在任何 Web 应用中使用它
+- [X6](https://github.com/antvis/X6) - 一个使用 SVG 或者 Html 进行渲染的图标库，支持 Vue 、React 、原生 JavaScript ,支持构建流程图，UML 类图， DAG 图等多种图表
+- [butterfly](https://github.com/alibaba/butterfly) - 一个基于JS的数据驱动的节点式编排组件库 支持 Vue 、React，支持构建流程图，UML 类图， DAG 图，思维导图等多种图表
 # 代码规范
 敬请期待
 
