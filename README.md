@@ -65,7 +65,7 @@
 - [tinyws](https://github.com/tinyhttp/tinyws) - 用于 Node.js 的微型 WebSocket 中间件
 - [mri](https://github.com/lukeed/mri) - 一个用于获取命令行输入的 flags and arguments 的 JavaScript 库
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js) - 一个用于在客户端保存文件的库，支持保存画布， 文件 ， URL ，文本等
-
+- [dotenv](https://github.com/motdotla/dotenv) - 一个用于加载.env文件的环境变量的库
 # Vue
 
 - [vxe-table](https://github.com/x-extends/vxe-table) - 一个 Vue 的 table 组件
