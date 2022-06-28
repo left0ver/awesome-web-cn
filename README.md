@@ -12,7 +12,7 @@
 - [React](https://github.com/left0ver/awesome-web-cn#react)
 - [代码规范](https://github.com/left0ver/awesome-web-cn#%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
 - [VSCode插件](https://github.com/left0ver/awesome-web-cn#vscode-%E6%8F%92%E4%BB%B6) 
-- [其他的小工具](https://github.com/left0ver/wesome-web-cn#其他的小工具)
+- [其他的小工具](https://github.com/left0ver/awesome-web-cn#%E5%85%B6%E4%BB%96%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7)
 # JavaScript/Typescript
 
 - [lodash](https://github.com/lodash/lodash) - 一个 JavaScript 的工具库,包含许多有用的工具函数
