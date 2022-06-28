@@ -12,6 +12,7 @@
 - [React](https://github.com/left0ver/awesome-web-cn#react)
 - [代码规范](https://github.com/left0ver/awesome-web-cn#%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
 - [VSCode插件](https://github.com/left0ver/awesome-web-cn#vscode-%E6%8F%92%E4%BB%B6) 
+- [其他的小工具](https://github.com/left0ver/wesome-web-cn#其他的小工具)
 # JavaScript/Typescript
 
 - [lodash](https://github.com/lodash/lodash) - 一个 JavaScript 的工具库,包含许多有用的工具函数
@@ -106,6 +107,8 @@
 # VScode 插件
 敬请期待
 
+# 其他的小工具
+- [volta](https://github.com/volta-cli/volta) - 一个工具可以帮助你轻易的管理项目中全局的工具的版本，比如 node 版本， yarn 版本，或者全局安装的 TypeScript 的版本
 # Contribution
 如果您有什么实用的库或者组件，欢迎您分享出来，帮助到更多的人，欢迎您的[PR](https://github.com/left0ver/awesome-web-cn/pulls)
 
