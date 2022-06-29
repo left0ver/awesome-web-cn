@@ -1,4 +1,5 @@
 
+[![last-updated](https://api.leftover.cn/api/last-updated/shields?owner=left0ver&repo=awesome-web-cn)](https://github.com/left0ver/github-repo-last-updated-time)
 # About
  这个仓库主要提供一些 JavaScript/Typescript 、Vue、React 方面的资源，主要集中于一些实用的库和常用的组件
 
