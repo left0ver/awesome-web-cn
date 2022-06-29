@@ -109,6 +109,7 @@
 
 # 其他的小工具
 - [volta](https://github.com/volta-cli/volta) - 一个工具可以帮助你轻易的管理项目中全局的工具的版本，比如 node 版本， yarn 版本，或者全局安装的 TypeScript 的版本
+- [deno](https://github.com/denoland/deno) - 一个 JavaScript 和 TypeScript 的运行时，可以帮助你直接运行 ts 文件
 # Contribution
 如果您有什么实用的库或者组件，欢迎您分享出来，帮助到更多的人，欢迎您的[PR](https://github.com/left0ver/awesome-web-cn/pulls)
 
