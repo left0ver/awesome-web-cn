@@ -68,6 +68,7 @@
 - [mri](https://github.com/lukeed/mri) - 一个用于获取命令行输入的 flags and arguments 的 JavaScript 库
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js) - 一个用于在客户端保存文件的库，支持保存画布， 文件 ， URL ，文本等
 - [dotenv](https://github.com/motdotla/dotenv) - 一个用于加载.env文件的环境变量的库
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh) - 一个用于图像压缩并可以让你编码成多种不同的图像格式的库
 # Vue
 
 - [vxe-table](https://github.com/x-extends/vxe-table) - 一个 Vue 的 table 组件
@@ -102,6 +103,7 @@
 - [tabler-icons](https://github.com/tabler/tabler-icons) - 一组超过 1950 个免费的基于 MIT 的高质量 SVG 图标，可以在任何 Web 应用中使用它
 - [X6](https://github.com/antvis/X6) - 一个使用 SVG 或者 Html 进行渲染的图标库，支持 Vue 、React 、原生 JavaScript ,支持构建流程图，UML 类图， DAG 图等多种图表
 - [butterfly](https://github.com/alibaba/butterfly) - 一个基于JS的数据驱动的节点式编排组件库 支持 Vue 、React，支持构建流程图，UML 类图， DAG 图，思维导图等多种图表
+- [react-pdf](https://github.com/diegomura/react-pdf) - 使用 React 创建 PDF 文件
 # 代码规范
 敬请期待
 
