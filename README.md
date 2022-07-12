@@ -106,6 +106,7 @@
 - [X6](https://github.com/antvis/X6) - 一个使用 SVG 或者 Html 进行渲染的图标库，支持 Vue 、React 、原生 JavaScript ,支持构建流程图，UML 类图， DAG 图等多种图表
 - [butterfly](https://github.com/alibaba/butterfly) - 一个基于JS的数据驱动的节点式编排组件库 支持 Vue 、React，支持构建流程图，UML 类图， DAG 图，思维导图等多种图表
 - [react-pdf](https://github.com/diegomura/react-pdf) - 使用 React 创建 PDF 文件
+- [html5-qrcode](https://github.com/mebjas/html5-qrcode) - 一个跨平台的 HTML5 二维码扫描器，支持 PC 端，IOS ,Android,使用这个轻量级库可以轻松/快速地将 QR 码、条形码和其他常见的代码扫描功能集成到您的 Web 应用程序中
 # 代码规范
 敬请期待
 
