@@ -67,10 +67,13 @@
 - [tinyws](https://github.com/tinyhttp/tinyws) - 用于 Node.js 的微型 WebSocket 中间件
 - [mri](https://github.com/lukeed/mri) - 一个用于获取命令行输入的 flags and arguments 的 JavaScript 库
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js) - 一个用于在客户端保存文件的库，支持保存画布， 文件 ， URL ，文本等
-- [dotenv](https://github.com/motdotla/dotenv) - 一个用于加载.env文件的环境变量的库
+- [dotenv](https://github.com/motdotla/dotenv) - 一个用于加载 .env 文件的环境变量的库
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - 一个用于图像压缩并可以让你编码成多种不同的图像格式的库
 - [pinyin](https://github.com/hotoo/pinyin) - 一个将汉字转成拼音的库
-- [china_regions](https://github.com/wecatch/china_regions) - 一个包含最全最新中国省，市，地区json及sql数据的库
+- [china_regions](https://github.com/wecatch/china_regions) - 一个包含最全最新中国省，市，地区 json 及 sql 数据的库
+- [party-js](https://github.com/yiliansource/party-js) - 一个为你的网站添加粒子效果的库,让你的网站变得更加炫酷
+- [figlet.js](https://github.com/patorjk/figlet.js) - 一个可以帮助你在终端或者浏览器打印出好看的 logo 的库
+- [terminal-link](https://github.com/sindresorhus/terminal-link) - 一个帮助你在终端创建可以点击的链接的库
 # Vue
 
 - [vxe-table](https://github.com/x-extends/vxe-table) - 一个 Vue 的 table 组件
