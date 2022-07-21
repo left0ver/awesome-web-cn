@@ -74,6 +74,11 @@
 - [party-js](https://github.com/yiliansource/party-js) - 一个为你的网站添加粒子效果的库,让你的网站变得更加炫酷
 - [figlet.js](https://github.com/patorjk/figlet.js) - 一个可以帮助你在终端或者浏览器打印出好看的 logo 的库
 - [terminal-link](https://github.com/sindresorhus/terminal-link) - 一个帮助你在终端创建可以点击的链接的库
+- [ip2region](https://github.com/lionsoul2014/ip2region) - 一个查询ip归属地的库，截止至 2022 年 7 月 21 日暂时还没有出nodejs的版本
+- [shelljs](https://github.com/shelljs/shelljs) - 一个在 node 中很简单地执行 unix shell 命令的库，也有对应的命令行版本
+- [exceljs](https://github.com/exceljs/exceljs) - 一个读取，操作并写入电子表格数据和样式到 XLSX 和 JSON 文件的库，相比[sheetjs](https://github.com/SheetJS/sheetjs),他有着详细的中文文档和多个代码示例，并且可以修改写入到 XLSX 文件中的样式，相比之下 sheetjs 的很多高级功能则需要付费
+- [morgan](https://github.com/expressjs/morgan) - 一个 nodejs 的日志中间件
+- [playwright](https://github.com/microsoft/playwright) - 一个用于 Web 测试和自动化的框架
 # Vue
 
 - [vxe-table](https://github.com/x-extends/vxe-table) - 一个 Vue 的 table 组件
