@@ -1,0 +1,12 @@
+{
+  "name": "awesome-web-cn",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:left0ver/awesome-web-cn.git",
+  "author": "leftover <1614674987@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "leftover-prettier": "^0.0.3",
+    "prettier": "2.7.1"
+  }
+}
