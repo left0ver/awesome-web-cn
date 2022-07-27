@@ -126,7 +126,14 @@
 
 # VScode 插件
 
-敬请期待
+- [any-rule](https://marketplace.visualstudio.com/items?itemName=russell.any-rule) - 一个拥有常见的正则表达式的插件,按 F1,搜索你想要的正则即可,例如搜索手机,则会出现多种有关手机号的正则表达式
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - 一个帮助你自动闭合 html 后半部分标签的插件
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - 一个帮助你快速重命名 html 标签的插件
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - 一个利用书签标记，可以让你很好地在各个文件中的代码间切换，帮助你快速找到你标记过的代码
+- [Class autocomplete for HTML](https://marketplace.visualstudio.com/items?itemName=AESSoft.aessoft-class-autocomplete) - 自动补全 html 的 class 属性
+- [Cocos Creator](https://marketplace.visualstudio.com/items?itemName=nextfu.cocos-creator-js) - Cocos Creator 支持 JavaScript 函数跳转，扩展代码提示
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - 一个可以一键运行代码片段或代码文件的扩展，支持多种语言
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - 一个帮助你检查代码中英语单词的拼写错误的插件，有效地帮助你避免代码中的拼写错误
 
 # 其他的小工具
 
