@@ -134,6 +134,20 @@
 - [Cocos Creator](https://marketplace.visualstudio.com/items?itemName=nextfu.cocos-creator-js) - Cocos Creator 支持 JavaScript 函数跳转，扩展代码提示
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - 一个可以一键运行代码片段或代码文件的扩展，支持多种语言
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - 一个帮助你检查代码中英语单词的拼写错误的插件，有效地帮助你避免代码中的拼写错误
+- [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules) - 一个针对 css modules 的扩展
+- [CSS Tree](https://marketplace.visualstudio.com/items?itemName=sachinb94.css-tree) - 从选定了 html 或者 jsx 生成对应的 css Tree
+- [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) - 将 draw.io 集成到 vscode 中
+- [element-ui-helper](https://marketplace.visualstudio.com/items?itemName=oibit.element-ui-helper) - 针对 element-ui 的悬停提示和自动补全。 -[ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - react 的代码片段
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - 以图表的形式查看 git 的 commit，并从图表中执行 git 操作
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - 增强 vscode 中的 git
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - 高亮显示匹配的结束标签和开始标签
+- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - 用于 html 的 css 智能感知
+- [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - 在代码的最左侧或者鼠标悬停时预览图片
+- [Javascript Function Comments](https://marketplace.visualstudio.com/items?itemName=yuexiawode.javascriptfunctioncommments) - 生成 JavaScript 函数注释
+- [JSON to TS](https://marketplace.visualstudio.com/items?itemName=MariusAlchimavicius.json-to-ts) - 将 Json 对象转换成 TS interface
+- [Less IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-less) - 针对 less 的自动补全和重构支持
+- [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) - 在你的工作区启动一个本地服务器，预览网页
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - 为静态或动态页面开启一个具有实时重新加载功能本地开发服务器
 
 # 其他的小工具
 
