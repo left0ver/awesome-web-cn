@@ -82,6 +82,7 @@
 - [exceljs](https://github.com/exceljs/exceljs) - 一个读取，操作并写入电子表格数据和样式到 XLSX 和 JSON 文件的库，相比[sheetjs](https://github.com/SheetJS/sheetjs),他有着详细的中文文档和多个代码示例，并且可以修改写入到 XLSX 文件中的样式，相比之下 sheetjs 的很多高级功能则需要付费
 - [morgan](https://github.com/expressjs/morgan) - 一个 nodejs 的日志中间件
 - [playwright](https://github.com/microsoft/playwright) - 一个用于 Web 测试和自动化的框架
+- [howler.js](https://github.com/goldfire/howler.js) - 一个 JavaScript 的音频库，让你在所有平台上处理音频变得容易
 
 # Vue
 
