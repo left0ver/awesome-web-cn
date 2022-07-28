@@ -149,6 +149,19 @@
 - [Less IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-less) - 针对 less 的自动补全和重构支持
 - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) - 在你的工作区启动一个本地服务器，预览网页
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - 为静态或动态页面开启一个具有实时重新加载功能本地开发服务器
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - 一个基于 Material Icon 的 vscode 文件图标的插件
+- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - 帮助你在导入 npm 包的时候提供自动补全
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - 自动补全文件路径
+- [PicGo](https://marketplace.visualstudio.com/items?itemName=Spades.vs-picgo) - 自动上传图片文件至配置的图床，让你使用 vscode 编写 markdown 变得更舒服
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - 配合[Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - 可以让你在 vscode 中连接服务器或者虚拟机
+- [Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview) - 在 vscode 中预览 svg 文件
+- [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - 提供多种语言的代码的自动补全，让你的开发效率 up up
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - 高亮你设置的 TODO, FIXME,还可以自己手动配置高亮其他关键词
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - 以树形视图的形式展示你的 TODO, FIXME,帮助你快速查找 TODO
+- [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes) - 使用 ctrl+' 快捷键帮助你快速切换单词的引号,例如' ' -> " " -> ``
+- [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse) - 一款 vscode 主题，也是我自己现在在用的主题
+- [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) - 针对 vscode 的 Dracula 主题
+- [Easy LESS](https://marketplace.visualstudio.com/items?itemName=mrcrowl.easy-less) - 自动在你保存的时候将 less 文件编译成 css 文件，这在你原生开发的时候将会很有帮助，因为相对 css，编写 less 可以让你提高开发效率
 
 # 其他的小工具
 
