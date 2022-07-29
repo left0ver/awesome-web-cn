@@ -170,6 +170,7 @@
 - [deno](https://github.com/denoland/deno) - 一个 JavaScript 和 TypeScript 的运行时，可以帮助你直接运行 ts 文件
 - [qnm](https://github.com/ranyitz/qnm) - 用于查询 node_modules 目录的 cli 实用程序,可以用来查询项目的依赖，帮助你更好的调试某些问题
 - [esno](https://github.com/esbuild-kit/esno) - 一个帮助你运行 ts 文件或者 ESM 模块的库
+- [koodo-reader](https://github.com/troyeguo/koodo-reader) - 一个用来管理你的电子书的桌面端软件
 
 # Contribution
 
