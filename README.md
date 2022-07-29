@@ -162,6 +162,7 @@
 - [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse) - 一款 vscode 主题，也是我自己现在在用的主题
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) - 针对 vscode 的 Dracula 主题
 - [Easy LESS](https://marketplace.visualstudio.com/items?itemName=mrcrowl.easy-less) - 自动在你保存的时候将 less 文件编译成 css 文件，这在你原生开发的时候将会很有帮助，因为相对 css，编写 less 可以让你提高开发效率
+- [project-tree](https://marketplace.visualstudio.com/items?itemName=zhucy.project-tree) - 在 README.md 中生成项目的树结构
 
 # 其他的小工具
 
