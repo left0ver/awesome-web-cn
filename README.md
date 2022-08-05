@@ -83,6 +83,8 @@
 - [morgan](https://github.com/expressjs/morgan) - 一个 nodejs 的日志中间件
 - [playwright](https://github.com/microsoft/playwright) - 一个用于 Web 测试和自动化的框架
 - [howler.js](https://github.com/goldfire/howler.js) - 一个 JavaScript 的音频库，让你在所有平台上处理音频变得容易
+- [video.js](https://github.com/videojs/video.js) - 一个开源的 HTML5 视频播放器，支持 PC 端 和移动端
+- [atropos](https://github.com/nolimits4web/atropos) - 一个创建 3D 视差悬停效果的 JavaScript 库，支持 Vue，React 等框架具体效果可看[站点](https://atroposjs.com/)
 
 # Vue
 
