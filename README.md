@@ -123,6 +123,7 @@
 - [butterfly](https://github.com/alibaba/butterfly) - 一个基于 JS 的数据驱动的节点式编排组件库 支持 Vue 、React，支持构建流程图，UML 类图， DAG 图，思维导图等多种图表
 - [react-pdf](https://github.com/diegomura/react-pdf) - 使用 React 创建 PDF 文件
 - [html5-qrcode](https://github.com/mebjas/html5-qrcode) - 一个跨平台的 HTML5 二维码扫描器，支持 PC 端，IOS ,Android,使用这个轻量级库可以轻松/快速地将 QR 码、条形码和其他常见的代码扫描功能集成到您的 Web 应用程序中
+- [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) - 一个基于 React 的无限滚动组件
 
 # 代码规范
 
