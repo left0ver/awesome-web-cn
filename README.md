@@ -87,6 +87,7 @@
 - [atropos](https://github.com/nolimits4web/atropos) - 一个创建 3D 视差悬停效果的 JavaScript 库，支持 Vue，React 等框架具体效果可看[站点](https://atroposjs.com/)
 - [countUp.js](https://github.com/inorganik/countUp.js) - 一个帮助你快速创建以更有趣的方式显示数字数据的动画的库,这里有一个[实例](https://inorganik.github.io/countUp.js/)，也有对应针对 React 和 Vue 的组件
 - [ oicq](https://github.com/takayama-lily/oicq) - 基于 nodejs 的腾讯 QQ 库，可以调用一些 QQ 的相关 api 写一些小工具
+- [node-rsa](https://github.com/rzcoder/node-rsa) - 一个 node 的 RSA 库,支持生成密钥、长消息的加密解密、签名和验证
 
 # Vue
 
