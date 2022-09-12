@@ -99,6 +99,7 @@
 - [giscus-component](https://github.com/giscus/giscus-component) - 一个基于 GitHub Discussions 的评论系统
 - [vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - 一个基于 [Sortable.js](https://github.com/SortableJS/Sortable) 的 Vue 3 兼容拖放组件
 - [vue-monaco](https://github.com/egoist/vue-monaco) - 在 Vue 中使用 [monaco-editor](https://github.com/microsoft/monaco-editor) 的组件
+- [mathlive](https://github.com/arnog/mathlive) - 针对数学公式的 web component ，你可以通过使用这个库很容易地在你的项目中展示数学公式或者创建可交互的数学公式的 input
 
 # React
 
