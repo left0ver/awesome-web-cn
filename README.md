@@ -88,6 +88,7 @@
 - [countUp.js](https://github.com/inorganik/countUp.js) - 一个帮助你快速创建以更有趣的方式显示数字数据的动画的库,这里有一个[实例](https://inorganik.github.io/countUp.js/)，也有对应针对 React 和 Vue 的组件
 - [ oicq](https://github.com/takayama-lily/oicq) - 基于 nodejs 的腾讯 QQ 库，可以调用一些 QQ 的相关 api 写一些小工具
 - [node-rsa](https://github.com/rzcoder/node-rsa) - 一个 node 的 RSA 库,支持生成密钥、长消息的加密解密、签名和验证
+- [formidable](https://github.com/node-formidable/formidable) - 一个解析 formdata 格式的库，对于使用 nodejs 做后端的时候想解析 formdata 格式的数据的时候会很有用
 
 # Vue
 
