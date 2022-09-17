@@ -130,6 +130,7 @@
 - [react-pdf](https://github.com/diegomura/react-pdf) - 使用 React 创建 PDF 文件
 - [html5-qrcode](https://github.com/mebjas/html5-qrcode) - 一个跨平台的 HTML5 二维码扫描器，支持 PC 端，IOS ,Android,使用这个轻量级库可以轻松/快速地将 QR 码、条形码和其他常见的代码扫描功能集成到您的 Web 应用程序中
 - [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) - 一个基于 React 的无限滚动组件
+- [remotion](https://github.com/remotion-dev/remotion)- 一个让你使用编程的方式创建视频的 React 组件
 
 # 代码规范
 
