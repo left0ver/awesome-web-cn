@@ -98,6 +98,9 @@
 - [patch-package](https://github.com/ds300/patch-package) - 帮助你更好地修改 node_modules 里面的源码，对于这个包的使用，可以看一下这篇[教程](https://juejin.cn/post/6962554654643191815)
 - [github-webhook-handler](https://github.com/rvagg/github-webhook-handler) - 用于处理 GitHub 的 webhooks 的库，帮助你使用代码监听 GitHub 的 webhooks
 - [jsplumb](https://github.com/jsplumb/jsplumb) - jsPlumb 是一个功能强大，可以用来绘制 DOM 节点间连线的库，可以帮助你绘制流程图
+- [node-cron](https://github.com/kelektiv/node-cron) - cron for nodejs,类似于 Linux 上的 cron，可用于设置定时任务
+- [xterm.js](https://github.com/xtermjs/xterm.js) - 一个帮助你在 web 上构建终端命令行的库
+- [dicebear](https://github.com/dicebear/dicebear) - 一个帮助你的 app 生成随机头像的库
 
 # Vue
 
@@ -138,6 +141,7 @@
 - [html5-qrcode](https://github.com/mebjas/html5-qrcode) - 一个跨平台的 HTML5 二维码扫描器，支持 PC 端，IOS ,Android,使用这个轻量级库可以轻松/快速地将 QR 码、条形码和其他常见的代码扫描功能集成到您的 Web 应用程序中
 - [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) - 一个基于 React 的无限滚动组件
 - [remotion](https://github.com/remotion-dev/remotion)- 一个让你使用编程的方式创建视频的 React 组件
+- [ink](https://github.com/vadimdemedes/ink) - 一个帮助你创建可交互的命令行的 React 组件
 
 # 代码规范
 
