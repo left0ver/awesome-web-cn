@@ -101,6 +101,7 @@
 - [node-cron](https://github.com/kelektiv/node-cron) - cron for nodejs,类似于 Linux 上的 cron，可用于设置定时任务
 - [xterm.js](https://github.com/xtermjs/xterm.js) - 一个帮助你在 web 上构建终端命令行的库
 - [dicebear](https://github.com/dicebear/dicebear) - 一个帮助你的 app 生成随机头像的库
+- [ArtPlayer](https://github.com/zhw2590582/ArtPlayer) - 一个哔哩哔哩风格的视频播放器
 
 # Vue
 
