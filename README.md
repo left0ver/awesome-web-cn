@@ -58,6 +58,9 @@
 - [node-archiver](https://github.com/archiverjs/node-archiver) - 一个用于 node.js 的压缩文件的库，支持 zip 和 rar 压缩
 - [ora](https://github.com/sindresorhus/ora) - 一个用于 node.js 中给终端添加加载动画的库
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 一个用于 node.js 中命令行交互的库
+- [yalc](https://github.com/wclr/yalc) - 一个帮助你在本地测试 npm 包的库，相比 npm link 和 yarn link ，它有更多的优势
+- [listr](https://github.com/SamVerschueren/listr) - 命令行终端的任务列表，让你的命令行工具更好看
+- [pkg-install](https://github.com/dkundel/pkg-install) - 一个帮助你轻松地安装 npm 包,如果你的脚手架工具需要拉取代码并下载依赖，这个库会是个不错的选择
 - [node-ssh](https://github.com/steelbrain/node-ssh) - 一个用于 node.js 中进行 ssh 连接的库
 - [download-git-repo](https://www.npmjs.com/package/download-git-repo) - 一个用于 node.js 中下载 git repository 的库
 - [Sortable](https://github.com/SortableJS/Sortable) - 一个用于可重新排序的拖放列表的 JavaScript 库
