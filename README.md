@@ -105,6 +105,8 @@
 - [xterm.js](https://github.com/xtermjs/xterm.js) - 一个帮助你在 web 上构建终端命令行的库
 - [dicebear](https://github.com/dicebear/dicebear) - 一个帮助你的 app 生成随机头像的库
 - [ArtPlayer](https://github.com/zhw2590582/ArtPlayer) - 一个哔哩哔哩风格的视频播放器
+- [tsup](https://github.com/egoist/tsup) - 一个用来帮助你打包你的 ts library 的工具
+- [unbuild](https://github.com/unjs/unbuild) - 与 tsup 一样，也可以用来打包你的 ts library，相比之下,unbuild 可以打包子目录，而 tsup 则使用起来更简单,更多区别可以看这篇[文章](https://antfu.me/posts/publish-esm-and-cjs#bundling)
 
 # Vue
 
