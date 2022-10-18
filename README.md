@@ -2,7 +2,7 @@
   <a href="https://github.com/left0ver/github-repo-last-updated-time">
     <img src="https://api.leftover.cn/api/last-updated/shields?owner=left0ver&repo=awesome-web-cn"/>
   </a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=left0ver.awesome-web-cn"/>
+  <img src="https://visitor.leftover.cn?id=left0ver.awesome-web-cn"/>
 </div>
 
 # About
