@@ -107,6 +107,9 @@
 - [ArtPlayer](https://github.com/zhw2590582/ArtPlayer) - 一个哔哩哔哩风格的视频播放器
 - [tsup](https://github.com/egoist/tsup) - 一个用来帮助你打包你的 ts library 的工具
 - [unbuild](https://github.com/unjs/unbuild) - 与 tsup 一样，也可以用来打包你的 ts library，相比之下,unbuild 可以打包子目录，而 tsup 则使用起来更简单,更多区别可以看这篇[文章](https://antfu.me/posts/publish-esm-and-cjs#bundling)
+- [ncc](https://github.com/vercel/ncc) - 将你的 node 项目打包成一个文件,这在某些特殊场景下会用到，例如 使用 node 编写自己的 GitHub action 时
+- [toolkit](https://github.com/actions/toolkit) - 一个帮助你方便地使用 node 编写自己的 GitHub action 的工具集
+- [koishi](https://github.com/koishijs/koishi) - 一个跨平台的机器人框架，支持 QQ，Telegram，Discord 等多个平台
 
 # Vue
 
