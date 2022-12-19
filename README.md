@@ -110,6 +110,9 @@
 - [ncc](https://github.com/vercel/ncc) - 将你的 node 项目打包成一个文件,这在某些特殊场景下会用到，例如 使用 node 编写自己的 GitHub action 时
 - [toolkit](https://github.com/actions/toolkit) - 一个帮助你方便地使用 node 编写自己的 GitHub action 的工具集
 - [koishi](https://github.com/koishijs/koishi) - 一个跨平台的机器人框架，支持 QQ，Telegram，Discord 等多个平台
+- [docker-api](https://github.com/AgustinCB/docker-api) - nodejs 版的 docker 客户端
+- [degit](https://github.com/Rich-Harris/degit) - 用于下载 git 仓库，相比于单纯的 git 命令，他下载速度更快，而且不会有.git 文件夹，可以用于脚手架中下载代码模版
+- [log-update](https://github.com/sindresorhus/log-update) - 用当前的 log 输出覆盖先前的终端中的输出。用于渲染进度条、动画等
 
 # Vue
 
@@ -122,6 +125,9 @@
 - [vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - 一个基于 [Sortable.js](https://github.com/SortableJS/Sortable) 的 Vue 3 兼容拖放组件
 - [vue-monaco](https://github.com/egoist/vue-monaco) - 在 Vue 中使用 [monaco-editor](https://github.com/microsoft/monaco-editor) 的组件
 - [mathlive](https://github.com/arnog/mathlive) - 针对数学公式的 web component ，你可以通过使用这个库很容易地在你的项目中展示数学公式或者创建可交互的数学公式的 input
+- [vue-termui](https://github.com/vue-terminal/vue-termui) - 一个基于 vue 的现代的命令行 UI 框架，使用 vue 来构建命令行终端用户界面
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - chatgpt 的 node 客户端
+- [modern-errors](https://github.com/ehmicky/modern-errors) - 一个错误处理的库，让你使用简单，统一，稳定的方式 handle error
 
 # React
 
