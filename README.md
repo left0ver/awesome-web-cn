@@ -113,6 +113,9 @@
 - [docker-api](https://github.com/AgustinCB/docker-api) - nodejs 版的 docker 客户端
 - [degit](https://github.com/Rich-Harris/degit) - 用于下载 git 仓库，相比于单纯的 git 命令，他下载速度更快，而且不会有.git 文件夹，可以用于脚手架中下载代码模版
 - [log-update](https://github.com/sindresorhus/log-update) - 用当前的 log 输出覆盖先前的终端中的输出。用于渲染进度条、动画等
+- [nodemailer](https://github.com/nodemailer/nodemailer) - 一个用于发送邮件的 nodejs 库
+- [PubSubJS](https://github.com/mroderick/PubSubJS) - 一个发布订阅模式的 Javascript 库
+- [configstore](https://github.com/yeoman/configstore) - 轻松加载和持久化配置，可以将一些有关用户的数据存储到用户的磁盘中,下次再次运行程序的时候可以读取到最新的数据,一般会在桌面端或者 node 中使用
 
 # Vue
 
@@ -157,6 +160,9 @@
 - [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) - 一个基于 React 的无限滚动组件
 - [remotion](https://github.com/remotion-dev/remotion)- 一个让你使用编程的方式创建视频的 React 组件
 - [ink](https://github.com/vadimdemedes/ink) - 一个帮助你创建可交互的命令行的 React 组件
+- [mafs](https://github.com/stevenpetryk/mafs) - 用于交互式数学的 React 组件,可以创建可交互的数学函数等等
+- [react-window](https://github.com/bvaughn/react-window) - 一个用于创建虚拟列表的 react 组件
+- [emoji-mart](https://github.com/missive/emoji-mart) - 一个可自定义的表情符号选择器 react 组件
 
 # 代码规范
 
